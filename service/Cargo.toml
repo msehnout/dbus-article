@@ -1,0 +1,8 @@
+[package]
+name = "rs-dbus"
+version = "0.1.0"
+authors = ["Sehny <msehnout@users.noreply.github.com>"]
+
+[dependencies]
+dbus = "0.6.0"
+calculate = "0.5.1"
